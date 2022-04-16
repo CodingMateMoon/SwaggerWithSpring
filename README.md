@@ -2,7 +2,7 @@
 
 
 ```shell
-git clone https://github.com/KimSoungRyoul/HelloSpringBoot.git
+https://github.com/CodingMateMoon/SwaggerWithSpring.git
 docker-compose -f docker/docker-compose.dev.yaml up -d
 
 
