@@ -24,6 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.validation.Valid;
 
+//Auth
 @RestController
 @RequestMapping("/api/auth")
 @RequiredArgsConstructor
